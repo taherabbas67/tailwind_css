@@ -1,0 +1,24 @@
+
+.b-img{
+    width: 170px;
+    height: auto;
+}
+
+.bg-color{background-color: #EEEEEE;}
+
+.bg-red-gitam{
+    background-color: #8C2B30;
+}
+.bg-red-gitam :hover{
+    background-color: #8C2B30;
+}
+.txt-red-gitam{
+    color: #8C2B30;
+}
+.bor-red-gitam{
+    border-color: #8C2B30;
+}
+
+/* text-purple-600
+border-purple-200 
+bg-purple-600*/
